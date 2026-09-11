@@ -14,7 +14,7 @@ from kivy.metrics import dp
 from kivy.core.text import LabelBase
 
 
-FONT = "fonts/Vazirmatn-Regular.ttf"
+FONT = "Vazirmatn-Regular.ttf"
 
 LabelBase.register(
     name="Vazir",
